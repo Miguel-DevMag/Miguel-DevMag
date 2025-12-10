@@ -1,4 +1,4 @@
-# 🧖 Miguel Angel
+# 🧑‍💻 Miguel Angel
 
 ** `Desenvolvedor Front-end` **
 
