@@ -1,10 +1,33 @@
 # 🧑‍💻 Miguel Angel
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<!-- Presentation -->
+<p>
+  "Hi 👋, I'm Miguel Angel and I currently study at SENAI Simons school, where I discovered the field of technology.
+
+   📚 Currently, I'm studying front-end development with the following technologies: HTML, CSS, JavaScript, Tailwind.
+
+   🔭 I'm looking for my first job opportunity. My goal is to work with web or systems development using both front-end and back-end.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I'm 17 years old and I live in Brazil. I'm fluent in Spanish and have experience with HTML5, CSS3, JavaScript, Tailwind, and SQL.
+    
+  - ⚡ I enjoy reading, especially good books, and watching old movies. I believe that our personal interests contribute to a more refined perception of things and to problem-solving."
+</details>
 ** `Desenvolvedor Front-end` **
+I'm a front-end developer and currently studying Systems Analysis and Development at Senai Roberto Simon. I'm passionate about creating modern, accessible, and well-structured interfaces, working with technologies such as HTML, CSS, JavaScript, and Tailwind. If you're interested, check out my [LinkedIn](https://www.linkedin.com/in/miguel-angel-desenvolvedor/). See some of the projects I've done:
+[Portfólio](#).
 
-Sou desenvolvedora front-end e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senai Roberto Simon. Tenho paixão por criar interfaces modernas, acessíveis e bem estruturadas, trabalhando com tecnologias como HTML, CSS, JavaScript e React [LinkedIn](https://www.linkedin.com/in/miguel-angel-desenvolvedor/). Veja alguns dos projetos feitos por mim
-[Portifolio](#).
-
+<br>
+<br>
 <p align="left">
     <a href="https://www.linkedin.com/in/miguel-angel-desenvolvedor/"                  
     target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -27,7 +50,7 @@ Sou desenvolvedora front-end e atualmente estou cursando Análise e Desenvolvime
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -52,30 +75,6 @@ Sou desenvolvedora front-end e atualmente estou cursando Análise e Desenvolvime
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
