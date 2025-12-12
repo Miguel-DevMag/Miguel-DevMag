@@ -1,4 +1,4 @@
-# 🧑‍💻 Miguel Angel
+# Miguel Angel
 
 <div id="user-content-toc">
   <ul align="center">
